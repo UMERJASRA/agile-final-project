@@ -1,3 +1,5 @@
+[View Kanban Board](https://github.com/users/UMERJASRA/projects/4)
+
 # 🛒 E-Commerce Catalog Backend (Agile Final Project)
 
 ## 📌 Project Overview
@@ -33,4 +35,3 @@ pie
     "In Progress" : 1
     "Remaining" : 2
 
-[View Kanban Board](https://github.com/users/UMERJASRA/projects/4)
